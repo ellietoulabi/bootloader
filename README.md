@@ -1,5 +1,6 @@
 # Bootloader
-A bootloader written in ASM. This program print a simple line:)
+A bootloader written in ASM. This program print a simple line:) <br>
+Run Guide: [Link](https://github.com/ellietoulabi/bootloader/blob/9c8eedac931059b8e25938047de920335823b32d/boot.sh)
 
 ## Project Description
 
